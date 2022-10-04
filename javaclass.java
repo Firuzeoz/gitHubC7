@@ -3,5 +3,6 @@ public class javaclass {
         System.out.println("heyylo!");
         System.out.println("heyyloOOOoo!");
         System.out.println("heyylo Beybisi!");
+        System.out.println("heyylo Beybileyd!");
     }
 }
